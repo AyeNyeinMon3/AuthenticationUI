@@ -11,7 +11,7 @@ import androidx.fragment.app.Fragment
 import androidx.navigation.Navigation
 import androidx.navigation.findNavController
 import com.example.uidesignthree.databinding.FragmentSigninBinding
-
+//Aung Khant Phyo  fuck u
 class SignInFragment:Fragment() {
     private lateinit var binding: FragmentSigninBinding
     private val IMAGE_REQUEST_CODE = 100
