@@ -1,0 +1,50 @@
+com.example.uidesignthree.app-drawerlayout-1.1.1-0 C:\Users\Dell\.gradle\caches\transforms-3\03ed6da6ac4d0af64b2ba802dc8ecce4\transformed\drawerlayout-1.1.1\res
+com.example.uidesignthree.app-navigation-runtime-2.5.2-1 C:\Users\Dell\.gradle\caches\transforms-3\0736edb1f6bf7ad5e35338e6a8c4aa54\transformed\navigation-runtime-2.5.2\res
+com.example.uidesignthree.app-navigation-ui-2.5.2-2 C:\Users\Dell\.gradle\caches\transforms-3\093fe483bb2cc2fa8f351a5dbf772c7c\transformed\navigation-ui-2.5.2\res
+com.example.uidesignthree.app-savedstate-ktx-1.2.0-3 C:\Users\Dell\.gradle\caches\transforms-3\09b0617e7be1fc8107caa525b134bb26\transformed\savedstate-ktx-1.2.0\res
+com.example.uidesignthree.app-navigation-ui-ktx-2.5.2-4 C:\Users\Dell\.gradle\caches\transforms-3\125b297656acf21ba153086483eadafd\transformed\navigation-ui-ktx-2.5.2\res
+com.example.uidesignthree.app-recyclerview-1.1.0-5 C:\Users\Dell\.gradle\caches\transforms-3\16f39f7f2fc64fde4e83c7692847b39c\transformed\recyclerview-1.1.0\res
+com.example.uidesignthree.app-startup-runtime-1.1.1-6 C:\Users\Dell\.gradle\caches\transforms-3\17385685383a97171bf814cc4be437d4\transformed\startup-runtime-1.1.1\res
+com.example.uidesignthree.app-emoji2-views-helper-1.2.0-7 C:\Users\Dell\.gradle\caches\transforms-3\21a9a4daf259dcda64bbda7e143e7ab4\transformed\emoji2-views-helper-1.2.0\res
+com.example.uidesignthree.app-fragment-ktx-1.5.2-8 C:\Users\Dell\.gradle\caches\transforms-3\23c12704cc94954f71d285b2977d9a26\transformed\fragment-ktx-1.5.2\res
+com.example.uidesignthree.app-slidingpanelayout-1.2.0-9 C:\Users\Dell\.gradle\caches\transforms-3\26c56e10cd5983dc2d7ea7b05a5d2284\transformed\slidingpanelayout-1.2.0\res
+com.example.uidesignthree.app-databinding-runtime-7.2.0-10 C:\Users\Dell\.gradle\caches\transforms-3\2778ff7c49cb12ba2f8d21b390668e55\transformed\databinding-runtime-7.2.0\res
+com.example.uidesignthree.app-navigation-common-2.5.2-11 C:\Users\Dell\.gradle\caches\transforms-3\28a72470bda8228c86790aa2b0da9b53\transformed\navigation-common-2.5.2\res
+com.example.uidesignthree.app-lifecycle-viewmodel-savedstate-2.5.1-12 C:\Users\Dell\.gradle\caches\transforms-3\2b2cfcd1a0cae15a2c5d7ee84266257c\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.uidesignthree.app-material-1.7.0-13 C:\Users\Dell\.gradle\caches\transforms-3\2ec8c0eae058122dbfbab9e4abc03d80\transformed\material-1.7.0\res
+com.example.uidesignthree.app-emoji2-1.2.0-14 C:\Users\Dell\.gradle\caches\transforms-3\35739707f711bddaf463b3883d545e94\transformed\emoji2-1.2.0\res
+com.example.uidesignthree.app-appcompat-1.5.1-15 C:\Users\Dell\.gradle\caches\transforms-3\47cdc8506e2e1eb9b5d271fc758b5359\transformed\appcompat-1.5.1\res
+com.example.uidesignthree.app-core-1.8.0-16 C:\Users\Dell\.gradle\caches\transforms-3\4bc52f698ab8587fc6bf7af1ce51bfc5\transformed\core-1.8.0\res
+com.example.uidesignthree.app-annotation-experimental-1.1.0-17 C:\Users\Dell\.gradle\caches\transforms-3\4e1de856e2fdf65ee16e35aed0183e38\transformed\annotation-experimental-1.1.0\res
+com.example.uidesignthree.app-databinding-adapters-7.2.0-18 C:\Users\Dell\.gradle\caches\transforms-3\55de2194b055547fa7414bd016e9b531\transformed\databinding-adapters-7.2.0\res
+com.example.uidesignthree.app-viewpager2-1.0.0-19 C:\Users\Dell\.gradle\caches\transforms-3\5aaec325bd9760c1b6bdb8a57ba9c0e1\transformed\viewpager2-1.0.0\res
+com.example.uidesignthree.app-navigation-runtime-ktx-2.5.2-20 C:\Users\Dell\.gradle\caches\transforms-3\64d28f63a9462b7cf54a4f92a00f701a\transformed\navigation-runtime-ktx-2.5.2\res
+com.example.uidesignthree.app-lifecycle-runtime-ktx-2.5.1-21 C:\Users\Dell\.gradle\caches\transforms-3\653fa18a7a55dc7b9def445be8c407ef\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.example.uidesignthree.app-lifecycle-livedata-core-2.5.1-22 C:\Users\Dell\.gradle\caches\transforms-3\827067b9561b6746619cccef88b09aa0\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.uidesignthree.app-navigation-fragment-ktx-2.5.2-23 C:\Users\Dell\.gradle\caches\transforms-3\8432ac2da8668f5415a1ae569cba608f\transformed\navigation-fragment-ktx-2.5.2\res
+com.example.uidesignthree.app-lifecycle-livedata-core-ktx-2.5.1-24 C:\Users\Dell\.gradle\caches\transforms-3\8c49a7cb9efdd6bbe63b326840e5a780\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.example.uidesignthree.app-lifecycle-viewmodel-2.5.1-25 C:\Users\Dell\.gradle\caches\transforms-3\92a07efed0d2cd4cd6d5f63b70c15d0e\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.uidesignthree.app-transition-1.4.1-26 C:\Users\Dell\.gradle\caches\transforms-3\933171a9e7d0571ad573c7d4ac67f8fc\transformed\transition-1.4.1\res
+com.example.uidesignthree.app-constraintlayout-2.1.4-27 C:\Users\Dell\.gradle\caches\transforms-3\96900f1ed2f70415cb4332fbe2fd3d32\transformed\constraintlayout-2.1.4\res
+com.example.uidesignthree.app-lifecycle-process-2.4.1-28 C:\Users\Dell\.gradle\caches\transforms-3\96a1cfe2cf2488be015d53901c9d2b10\transformed\lifecycle-process-2.4.1\res
+com.example.uidesignthree.app-navigation-common-ktx-2.5.2-29 C:\Users\Dell\.gradle\caches\transforms-3\99512847098773aadeb04c638a4f6094\transformed\navigation-common-ktx-2.5.2\res
+com.example.uidesignthree.app-activity-ktx-1.5.1-30 C:\Users\Dell\.gradle\caches\transforms-3\ab1a35343c049e8e3fafdc8b9cc40cc8\transformed\activity-ktx-1.5.1\res
+com.example.uidesignthree.app-lifecycle-viewmodel-ktx-2.5.1-31 C:\Users\Dell\.gradle\caches\transforms-3\b1595a7b1e7c5fa1cc9113ddacb95a54\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.example.uidesignthree.app-cardview-1.0.0-32 C:\Users\Dell\.gradle\caches\transforms-3\b3c8ff8128bb27431e478a5ff77e7306\transformed\cardview-1.0.0\res
+com.example.uidesignthree.app-appcompat-resources-1.5.1-33 C:\Users\Dell\.gradle\caches\transforms-3\ca663dd71560f7de0ec70c84da9d6ac2\transformed\appcompat-resources-1.5.1\res
+com.example.uidesignthree.app-core-ktx-1.8.0-34 C:\Users\Dell\.gradle\caches\transforms-3\cbb65ca0dc713b391633db6ce22a2317\transformed\core-ktx-1.8.0\res
+com.example.uidesignthree.app-fragment-1.5.2-35 C:\Users\Dell\.gradle\caches\transforms-3\d2992c995e5b04a7a5781a5220bb4658\transformed\fragment-1.5.2\res
+com.example.uidesignthree.app-activity-1.5.1-36 C:\Users\Dell\.gradle\caches\transforms-3\e6a87a54b8053e2834b555c91d873950\transformed\activity-1.5.1\res
+com.example.uidesignthree.app-coordinatorlayout-1.1.0-37 C:\Users\Dell\.gradle\caches\transforms-3\e93be0694c9326f38246da65e5c127f8\transformed\coordinatorlayout-1.1.0\res
+com.example.uidesignthree.app-window-1.0.0-38 C:\Users\Dell\.gradle\caches\transforms-3\ed80d79d6310881b55c147047969e8e0\transformed\window-1.0.0\res
+com.example.uidesignthree.app-savedstate-1.2.0-39 C:\Users\Dell\.gradle\caches\transforms-3\ee7f9e96a41e14788c07923b15b3bc8a\transformed\savedstate-1.2.0\res
+com.example.uidesignthree.app-lifecycle-runtime-2.5.1-40 C:\Users\Dell\.gradle\caches\transforms-3\f04f6454b9e5086acc34fe3e0284b82b\transformed\lifecycle-runtime-2.5.1\res
+com.example.uidesignthree.app-navigation-fragment-2.5.2-41 C:\Users\Dell\.gradle\caches\transforms-3\f0e35d387d6ebf1702acfc978faede3b\transformed\navigation-fragment-2.5.2\res
+com.example.uidesignthree.app-pngs-42 C:\Youtube Lessons\UIdesignthree\app\build\generated\res\pngs\debug
+com.example.uidesignthree.app-resValues-43 C:\Youtube Lessons\UIdesignthree\app\build\generated\res\resValues\debug
+com.example.uidesignthree.app-rs-44 C:\Youtube Lessons\UIdesignthree\app\build\generated\res\rs\debug
+com.example.uidesignthree.app-packageDebugResources-45 C:\Youtube Lessons\UIdesignthree\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.uidesignthree.app-packageDebugResources-46 C:\Youtube Lessons\UIdesignthree\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.uidesignthree.app-merged_res-47 C:\Youtube Lessons\UIdesignthree\app\build\intermediates\merged_res\debug
+com.example.uidesignthree.app-debug-48 C:\Youtube Lessons\UIdesignthree\app\src\debug\res
+com.example.uidesignthree.app-main-49 C:\Youtube Lessons\UIdesignthree\app\src\main\res

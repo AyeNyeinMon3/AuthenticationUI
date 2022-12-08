@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-mergeDebugResources-46:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-mergeDebugResources-46:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "com.example.uidesignthree.app-mergeDebugResources-46:/layout/fragment_signin.xml",
+        "source": "com.example.uidesignthree.app-main-49:/layout/fragment_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-mergeDebugResources-46:\\layout\\fragment_singup.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\layout\\fragment_singup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-mergeDebugResources-46:\\layout\\fragment_signup.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-mergeDebugResources-46:\\layout\\fragment_signin.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\layout\\fragment_signin.xml"
+    }
+]

@@ -1,0 +1,726 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_facebook.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_circle_green.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_btn_4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_name.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_btn_2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_search.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_back_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\back_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_shopping_cart.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_email.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_intro_button.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\intro_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_shopping_cart.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_password.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_shopping_cart.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_logo3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_btn_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_btn_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_logo2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\layout_fragment_signup.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_circle_green.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_password.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable_background_search.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable\\background_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_circle_green.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "com.example.uidesignthree.app-merged_res-47:/navigation_nav_graph.xml.flat",
+        "source": "com.example.uidesignthree.app-main-49:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_name.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_back_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\back_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_logo3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_logo1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_logo3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_logo3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_btn_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable_background_btn.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable\\background_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_back_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\back_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_name.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_email.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_back_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\back_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_email.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_btn_4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_btn_4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_circle_green.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_circle_green.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_name.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_logo1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_btn_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_logo1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_btn_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_shopping_cart.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_btn_5.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_logo2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_name.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_back_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\back_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_password.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_intro_button.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\intro_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_logo1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_logo1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_circle_green.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\circle_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_password.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_btn_6.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_back_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\back_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_logo3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_btn_6.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable_background_box.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable\\background_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\layout_fragment_signin.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\layout\\fragment_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_back_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\back_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_back_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\back_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_logo3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\layout_fragment_singup.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\layout\\fragment_singup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_back_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\back_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_logo2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_btn_6.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable_background_edit_text.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable\\background_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable_background_top.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable\\background_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_logo2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_password.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_intro_button.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\intro_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-v24_profile2.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-v24\\profile2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_btn_5.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_password.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_logo2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_btn_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_back_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\back_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_shopping_cart.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_btn_5.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_btn_2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-pngs-42:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_intro_button.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\intro_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_logo2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_shopping_cart.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_google.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_btn_2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_email.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_btn_6.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\btn_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_logo1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_intro_button.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\intro_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_back_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\back_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable_background_button.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable\\background_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_email.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xhdpi_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-mdpi_name.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-mdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-hdpi_email.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-hdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxhdpi_back_3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxhdpi\\back_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-xxxhdpi_intro_button.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-xxxhdpi\\intro_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-merged_res-47:\\drawable-ldpi_search.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.uidesignthree.app-main-49:\\drawable-ldpi\\search.png"
+    }
+]
